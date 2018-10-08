@@ -1,0 +1,7 @@
+table,
+th,
+td {
+    border-color: azure;
+    border-width: 1px;
+    border-style: groove;
+}
